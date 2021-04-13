@@ -6,8 +6,7 @@
 
 ## Samples
 
-<img src="./data/Sample012/L_12_Source Sans Pro.png" width="100">
-<img src="./data/Sample018/R_85_Archivo.png" width="100">
+<img src="./data/Sample012/L_12_Source Sans Pro.png" width="100"> <img src="./data/Sample018/R_85_Archivo.png" width="100">
 <img src="./data/Sample022/V_63_Catamaran.png" width="100">
 <img src="./data/Sample016/P_19_Manrope.png" width="100">
 <img src="./data/Sample008/H_59_DM Sans.png" width="100">
